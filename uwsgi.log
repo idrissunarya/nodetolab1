@@ -1,0 +1,1237 @@
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 15:48:00 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fd772d05730
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2587)
+spawned uWSGI worker 1 (pid: 2588, cores: 1)
+spawned uWSGI worker 2 (pid: 2589, cores: 1)
+spawned uWSGI worker 3 (pid: 2590, cores: 1)
+spawned uWSGI worker 4 (pid: 2591, cores: 1)
+spawned uWSGI worker 5 (pid: 2592, cores: 1)
+spawned uWSGI worker 6 (pid: 2593, cores: 1)
+spawned uWSGI worker 7 (pid: 2594, cores: 1)
+spawned uWSGI worker 8 (pid: 2595, cores: 1)
+spawned uWSGI worker 9 (pid: 2596, cores: 1)
+spawned uWSGI worker 10 (pid: 2597, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 16:07:13 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fcba340cf50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2687)
+spawned uWSGI worker 1 (pid: 2688, cores: 1)
+spawned uWSGI worker 2 (pid: 2689, cores: 1)
+spawned uWSGI worker 3 (pid: 2690, cores: 1)
+spawned uWSGI worker 4 (pid: 2691, cores: 1)
+spawned uWSGI worker 5 (pid: 2692, cores: 1)
+spawned uWSGI worker 6 (pid: 2693, cores: 1)
+spawned uWSGI worker 7 (pid: 2694, cores: 1)
+spawned uWSGI worker 8 (pid: 2695, cores: 1)
+spawned uWSGI worker 9 (pid: 2696, cores: 1)
+spawned uWSGI worker 10 (pid: 2697, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 16:28:32 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fdf70c0c180
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2780)
+spawned uWSGI worker 1 (pid: 2781, cores: 1)
+spawned uWSGI worker 2 (pid: 2782, cores: 1)
+spawned uWSGI worker 3 (pid: 2783, cores: 1)
+spawned uWSGI worker 4 (pid: 2784, cores: 1)
+spawned uWSGI worker 5 (pid: 2785, cores: 1)
+spawned uWSGI worker 6 (pid: 2786, cores: 1)
+spawned uWSGI worker 7 (pid: 2787, cores: 1)
+spawned uWSGI worker 8 (pid: 2788, cores: 1)
+spawned uWSGI worker 9 (pid: 2789, cores: 1)
+spawned uWSGI worker 10 (pid: 2790, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 16:42:04 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7f8353503030
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2858)
+spawned uWSGI worker 1 (pid: 2859, cores: 1)
+spawned uWSGI worker 2 (pid: 2860, cores: 1)
+spawned uWSGI worker 3 (pid: 2861, cores: 1)
+spawned uWSGI worker 4 (pid: 2862, cores: 1)
+spawned uWSGI worker 5 (pid: 2863, cores: 1)
+spawned uWSGI worker 6 (pid: 2864, cores: 1)
+spawned uWSGI worker 7 (pid: 2865, cores: 1)
+spawned uWSGI worker 8 (pid: 2866, cores: 1)
+spawned uWSGI worker 9 (pid: 2867, cores: 1)
+spawned uWSGI worker 10 (pid: 2868, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 17:33:30 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fe248c0c080
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3322)
+spawned uWSGI worker 1 (pid: 3323, cores: 1)
+spawned uWSGI worker 2 (pid: 3324, cores: 1)
+spawned uWSGI worker 3 (pid: 3325, cores: 1)
+spawned uWSGI worker 4 (pid: 3326, cores: 1)
+spawned uWSGI worker 5 (pid: 3327, cores: 1)
+spawned uWSGI worker 6 (pid: 3328, cores: 1)
+spawned uWSGI worker 7 (pid: 3329, cores: 1)
+spawned uWSGI worker 8 (pid: 3330, cores: 1)
+spawned uWSGI worker 9 (pid: 3331, cores: 1)
+spawned uWSGI worker 10 (pid: 3332, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 17:39:19 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7ff4a15026d0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3501)
+spawned uWSGI worker 1 (pid: 3502, cores: 1)
+spawned uWSGI worker 2 (pid: 3503, cores: 1)
+spawned uWSGI worker 3 (pid: 3504, cores: 1)
+spawned uWSGI worker 4 (pid: 3505, cores: 1)
+spawned uWSGI worker 5 (pid: 3506, cores: 1)
+spawned uWSGI worker 6 (pid: 3507, cores: 1)
+spawned uWSGI worker 7 (pid: 3508, cores: 1)
+spawned uWSGI worker 8 (pid: 3509, cores: 1)
+spawned uWSGI worker 9 (pid: 3510, cores: 1)
+spawned uWSGI worker 10 (pid: 3511, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 17:40:49 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fb46a5029c0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3562)
+spawned uWSGI worker 1 (pid: 3563, cores: 1)
+spawned uWSGI worker 2 (pid: 3564, cores: 1)
+spawned uWSGI worker 3 (pid: 3565, cores: 1)
+spawned uWSGI worker 4 (pid: 3566, cores: 1)
+spawned uWSGI worker 5 (pid: 3567, cores: 1)
+spawned uWSGI worker 6 (pid: 3568, cores: 1)
+spawned uWSGI worker 7 (pid: 3569, cores: 1)
+spawned uWSGI worker 8 (pid: 3570, cores: 1)
+spawned uWSGI worker 9 (pid: 3571, cores: 1)
+spawned uWSGI worker 10 (pid: 3572, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 17:58:45 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7f9343c0c7f0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4047)
+spawned uWSGI worker 1 (pid: 4048, cores: 1)
+spawned uWSGI worker 2 (pid: 4049, cores: 1)
+spawned uWSGI worker 3 (pid: 4050, cores: 1)
+spawned uWSGI worker 4 (pid: 4051, cores: 1)
+spawned uWSGI worker 5 (pid: 4052, cores: 1)
+spawned uWSGI worker 6 (pid: 4053, cores: 1)
+spawned uWSGI worker 7 (pid: 4054, cores: 1)
+spawned uWSGI worker 8 (pid: 4055, cores: 1)
+spawned uWSGI worker 9 (pid: 4056, cores: 1)
+spawned uWSGI worker 10 (pid: 4057, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 18:01:31 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fde39502ab0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4137)
+spawned uWSGI worker 1 (pid: 4140, cores: 1)
+spawned uWSGI worker 2 (pid: 4141, cores: 1)
+spawned uWSGI worker 3 (pid: 4142, cores: 1)
+spawned uWSGI worker 4 (pid: 4143, cores: 1)
+spawned uWSGI worker 5 (pid: 4144, cores: 1)
+spawned uWSGI worker 6 (pid: 4145, cores: 1)
+spawned uWSGI worker 7 (pid: 4146, cores: 1)
+spawned uWSGI worker 8 (pid: 4147, cores: 1)
+spawned uWSGI worker 9 (pid: 4148, cores: 1)
+spawned uWSGI worker 10 (pid: 4149, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sat Sep 19 18:10:37 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MBP
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fb839d028e0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4424)
+spawned uWSGI worker 1 (pid: 4425, cores: 1)
+spawned uWSGI worker 2 (pid: 4426, cores: 1)
+spawned uWSGI worker 3 (pid: 4427, cores: 1)
+spawned uWSGI worker 4 (pid: 4428, cores: 1)
+spawned uWSGI worker 5 (pid: 4429, cores: 1)
+spawned uWSGI worker 6 (pid: 4430, cores: 1)
+spawned uWSGI worker 7 (pid: 4431, cores: 1)
+spawned uWSGI worker 8 (pid: 4432, cores: 1)
+spawned uWSGI worker 9 (pid: 4433, cores: 1)
+spawned uWSGI worker 10 (pid: 4434, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:19:00 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+uWSGI running as root, you can use --uid/--gid/--chroot options
+setgid() to 80
+set additional group 0 (wheel)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+uWSGI running as root, you can use --uid/--gid/--chroot options
+setgid() to 80
+set additional group 0 (wheel)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7ffc68c0bd40
+uWSGI running as root, you can use --uid/--gid/--chroot options
+setgid() to 80
+set additional group 0 (wheel)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+uWSGI running as root, you can use --uid/--gid/--chroot options
+setgid() to 80
+set additional group 0 (wheel)
+*** WARNING: you are running uWSGI as root !!! (use the --uid flag) *** 
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 733)
+spawned uWSGI worker 1 (pid: 736, cores: 1)
+spawned uWSGI worker 2 (pid: 737, cores: 1)
+spawned uWSGI worker 3 (pid: 738, cores: 1)
+spawned uWSGI worker 4 (pid: 739, cores: 1)
+spawned uWSGI worker 5 (pid: 740, cores: 1)
+spawned uWSGI worker 6 (pid: 741, cores: 1)
+spawned uWSGI worker 7 (pid: 742, cores: 1)
+spawned uWSGI worker 8 (pid: 743, cores: 1)
+spawned uWSGI worker 9 (pid: 744, cores: 1)
+spawned uWSGI worker 10 (pid: 745, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: pidfile removed.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:22:10 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7f7f8250ce50
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1264)
+spawned uWSGI worker 1 (pid: 1267, cores: 1)
+spawned uWSGI worker 2 (pid: 1268, cores: 1)
+spawned uWSGI worker 3 (pid: 1269, cores: 1)
+spawned uWSGI worker 4 (pid: 1270, cores: 1)
+spawned uWSGI worker 5 (pid: 1271, cores: 1)
+spawned uWSGI worker 6 (pid: 1272, cores: 1)
+spawned uWSGI worker 7 (pid: 1273, cores: 1)
+spawned uWSGI worker 8 (pid: 1274, cores: 1)
+spawned uWSGI worker 9 (pid: 1275, cores: 1)
+spawned uWSGI worker 10 (pid: 1276, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:24:19 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7ff3bb404960
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 1430)
+spawned uWSGI worker 1 (pid: 1433, cores: 1)
+spawned uWSGI worker 2 (pid: 1434, cores: 1)
+spawned uWSGI worker 3 (pid: 1435, cores: 1)
+spawned uWSGI worker 4 (pid: 1436, cores: 1)
+spawned uWSGI worker 5 (pid: 1437, cores: 1)
+spawned uWSGI worker 6 (pid: 1438, cores: 1)
+spawned uWSGI worker 7 (pid: 1439, cores: 1)
+spawned uWSGI worker 8 (pid: 1440, cores: 1)
+spawned uWSGI worker 9 (pid: 1441, cores: 1)
+spawned uWSGI worker 10 (pid: 1442, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:34:08 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7ff762c04f20
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2179)
+spawned uWSGI worker 1 (pid: 2182, cores: 1)
+spawned uWSGI worker 2 (pid: 2183, cores: 1)
+spawned uWSGI worker 3 (pid: 2184, cores: 1)
+spawned uWSGI worker 4 (pid: 2185, cores: 1)
+spawned uWSGI worker 5 (pid: 2186, cores: 1)
+spawned uWSGI worker 6 (pid: 2187, cores: 1)
+spawned uWSGI worker 7 (pid: 2188, cores: 1)
+spawned uWSGI worker 8 (pid: 2189, cores: 1)
+spawned uWSGI worker 9 (pid: 2190, cores: 1)
+spawned uWSGI worker 10 (pid: 2191, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:38:04 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fc46940c5e0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2404)
+spawned uWSGI worker 1 (pid: 2407, cores: 1)
+spawned uWSGI worker 2 (pid: 2408, cores: 1)
+spawned uWSGI worker 3 (pid: 2409, cores: 1)
+spawned uWSGI worker 4 (pid: 2410, cores: 1)
+spawned uWSGI worker 5 (pid: 2411, cores: 1)
+spawned uWSGI worker 6 (pid: 2412, cores: 1)
+spawned uWSGI worker 7 (pid: 2413, cores: 1)
+spawned uWSGI worker 8 (pid: 2414, cores: 1)
+spawned uWSGI worker 9 (pid: 2415, cores: 1)
+spawned uWSGI worker 10 (pid: 2416, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:39:15 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fb0abc0c9e0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2493)
+spawned uWSGI worker 1 (pid: 2496, cores: 1)
+spawned uWSGI worker 2 (pid: 2497, cores: 1)
+spawned uWSGI worker 3 (pid: 2498, cores: 1)
+spawned uWSGI worker 4 (pid: 2499, cores: 1)
+spawned uWSGI worker 5 (pid: 2500, cores: 1)
+spawned uWSGI worker 6 (pid: 2501, cores: 1)
+spawned uWSGI worker 7 (pid: 2502, cores: 1)
+spawned uWSGI worker 8 (pid: 2503, cores: 1)
+spawned uWSGI worker 9 (pid: 2504, cores: 1)
+spawned uWSGI worker 10 (pid: 2505, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:46:37 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7f98c3d09ef0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 2964)
+spawned uWSGI worker 1 (pid: 2967, cores: 1)
+spawned uWSGI worker 2 (pid: 2968, cores: 1)
+spawned uWSGI worker 3 (pid: 2969, cores: 1)
+spawned uWSGI worker 4 (pid: 2970, cores: 1)
+spawned uWSGI worker 5 (pid: 2971, cores: 1)
+spawned uWSGI worker 6 (pid: 2972, cores: 1)
+spawned uWSGI worker 7 (pid: 2973, cores: 1)
+spawned uWSGI worker 8 (pid: 2974, cores: 1)
+spawned uWSGI worker 9 (pid: 2975, cores: 1)
+spawned uWSGI worker 10 (pid: 2976, cores: 1)
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:47:10 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fe1e0c0cde0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3017)
+spawned uWSGI worker 1 (pid: 3020, cores: 1)
+spawned uWSGI worker 2 (pid: 3021, cores: 1)
+spawned uWSGI worker 3 (pid: 3022, cores: 1)
+spawned uWSGI worker 4 (pid: 3023, cores: 1)
+spawned uWSGI worker 5 (pid: 3024, cores: 1)
+spawned uWSGI worker 6 (pid: 3025, cores: 1)
+spawned uWSGI worker 7 (pid: 3026, cores: 1)
+spawned uWSGI worker 8 (pid: 3027, cores: 1)
+spawned uWSGI worker 9 (pid: 3028, cores: 1)
+spawned uWSGI worker 10 (pid: 3029, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:49:18 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7f899ad024d0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3155)
+spawned uWSGI worker 1 (pid: 3158, cores: 1)
+spawned uWSGI worker 2 (pid: 3159, cores: 1)
+spawned uWSGI worker 3 (pid: 3160, cores: 1)
+spawned uWSGI worker 4 (pid: 3161, cores: 1)
+spawned uWSGI worker 5 (pid: 3162, cores: 1)
+spawned uWSGI worker 6 (pid: 3163, cores: 1)
+spawned uWSGI worker 7 (pid: 3164, cores: 1)
+spawned uWSGI worker 8 (pid: 3165, cores: 1)
+spawned uWSGI worker 9 (pid: 3166, cores: 1)
+spawned uWSGI worker 10 (pid: 3167, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:50:47 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7fc792c0cd10
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 3263)
+spawned uWSGI worker 1 (pid: 3266, cores: 1)
+spawned uWSGI worker 2 (pid: 3267, cores: 1)
+spawned uWSGI worker 3 (pid: 3268, cores: 1)
+spawned uWSGI worker 4 (pid: 3269, cores: 1)
+spawned uWSGI worker 5 (pid: 3270, cores: 1)
+spawned uWSGI worker 6 (pid: 3271, cores: 1)
+spawned uWSGI worker 7 (pid: 3272, cores: 1)
+spawned uWSGI worker 8 (pid: 3273, cores: 1)
+spawned uWSGI worker 9 (pid: 3274, cores: 1)
+spawned uWSGI worker 10 (pid: 3275, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:57:59 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+writing pidfile to /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.pid
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+setuid() to 501
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 bound to UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7faab85099d0
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+spawned uWSGI master process (pid: 4018)
+spawned uWSGI worker 1 (pid: 4021, cores: 1)
+spawned uWSGI worker 2 (pid: 4022, cores: 1)
+spawned uWSGI worker 3 (pid: 4023, cores: 1)
+spawned uWSGI worker 4 (pid: 4024, cores: 1)
+spawned uWSGI worker 5 (pid: 4025, cores: 1)
+spawned uWSGI worker 6 (pid: 4026, cores: 1)
+spawned uWSGI worker 7 (pid: 4027, cores: 1)
+spawned uWSGI worker 8 (pid: 4028, cores: 1)
+spawned uWSGI worker 9 (pid: 4029, cores: 1)
+spawned uWSGI worker 10 (pid: 4030, cores: 1)
+SIGINT/SIGQUIT received...killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+goodbye to uWSGI.
+VACUUM: unix socket /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock removed.
+...brutally killing workers...
+worker 10 buried after 1 seconds
+worker 9 buried after 1 seconds
+worker 8 buried after 1 seconds
+worker 7 buried after 1 seconds
+worker 6 buried after 1 seconds
+worker 5 buried after 1 seconds
+worker 4 buried after 1 seconds
+worker 3 buried after 1 seconds
+worker 2 buried after 1 seconds
+worker 1 buried after 1 seconds
+binary reloading uWSGI...
+chdir() to /Users/febekristina/Documents/nodetolab
+closing all non-uwsgi socket fds > 2 (max_fd = 256)...
+found fd 3 mapped to socket 0 (/Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock)
+running /Users/febekristina/Documents/env/bin/uwsgi
+[uWSGI] getting INI configuration from /Users/febekristina/Documents/nodetolab/nodetolab_uwsgi.ini
+*** Starting uWSGI 2.0.19.1 (64bit) on [Sun Sep 20 19:59:29 2020] ***
+compiled with version: 4.2.1 Compatible Apple LLVM 8.0.0 (clang-800.0.42.1) on 19 September 2020 08:16:16
+os: Darwin-15.6.0 Darwin Kernel Version 15.6.0: Thu Jun 23 18:25:34 PDT 2016; root:xnu-3248.60.10~1/RELEASE_X86_64
+nodename: Febes-MacBook-Pro.local
+machine: x86_64
+clock source: unix
+pcre jit disabled
+detected number of CPU cores: 2
+current working directory: /Users/febekristina/Documents/nodetolab
+detected binary path: /Users/febekristina/Documents/env/bin/uwsgi
+chdir() to /Users/febekristina/Documents/nodetolab/nodetolab
+your processes number limit is 709
+your memory page size is 4096 bytes
+detected max file descriptor number: 256
+lock engine: OSX spinlocks
+thunder lock: disabled (you can enable it with --thunder-lock)
+uwsgi socket 0 inherited UNIX address /Users/febekristina/Documents/nodetolab/nodetolab/nodetolab.sock fd 3
+Python version: 3.8.5 (default, Sep 19 2020, 01:05:46)  [Clang 8.0.0 (clang-800.0.42.1)]
+PEP 405 virtualenv detected: /Users/febekristina/Documents/env
+Set PythonHome to /Users/febekristina/Documents/env
+*** Python threads support is disabled. You can enable it with --enable-threads ***
+Python main interpreter initialized at 0x7ff5e340c850
+your server socket listen backlog is limited to 100 connections
+your mercy for graceful operations on workers is 60 seconds
+mapped 801856 bytes (783 KB) for 10 cores
+*** Operational MODE: preforking ***
+ModuleNotFoundError: No module named 'nodetolab'
+unable to load app 0 (mountpoint='') (callable not found or import error)
+*** no app loaded. going in full dynamic mode ***
+*** uWSGI is running in multiple interpreter mode ***
+gracefully (RE)spawned uWSGI master process (pid: 2964)
+spawned uWSGI worker 1 (pid: 4126, cores: 1)
+spawned uWSGI worker 2 (pid: 4127, cores: 1)
+spawned uWSGI worker 3 (pid: 4128, cores: 1)
+spawned uWSGI worker 4 (pid: 4129, cores: 1)
+spawned uWSGI worker 5 (pid: 4130, cores: 1)
+spawned uWSGI worker 6 (pid: 4131, cores: 1)
+spawned uWSGI worker 7 (pid: 4132, cores: 1)
+spawned uWSGI worker 8 (pid: 4133, cores: 1)
+spawned uWSGI worker 9 (pid: 4134, cores: 1)
+spawned uWSGI worker 10 (pid: 4135, cores: 1)
